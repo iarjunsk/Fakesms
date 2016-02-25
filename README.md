@@ -1,6 +1,7 @@
 # Fakesms
 
 Fake SMS is an Android App that enables us to create FAKE SMS message in our Android Phone.
-The app does not need any root permission.
+The app does not need any root permission for creating a fake sms.
+
 
 You can find the complete tutorial here: http://www.arjunsk.com/android/android-fake-sms-in-eclipse/
