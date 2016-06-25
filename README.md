@@ -1,6 +1,6 @@
 # Fakesms
 
- ![Image](http://i0.wp.com/www.arjunsk.com/wp-content/uploads/2016/01/Untitled-1.png)
+ ![Image](https://raw.githubusercontent.com/arjunsk/Fakesms/master/screenshot.png)
 
  
 Fake SMS is an Android App that enables us to create FAKE SMS message in our Android Phone.
